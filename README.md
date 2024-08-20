@@ -1,6 +1,6 @@
 <h2> HELLO, WORLD! </h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp; Sobre mim </h3>
 
 - 🤔 &nbsp; Estudando novas linguagens e desenvolvendo jogos como hobby
 - 🎓 &nbsp; Estudante de engenharia da computação 4/10
