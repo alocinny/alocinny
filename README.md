@@ -1,16 +1,14 @@
-## Hi there 👋
+<h2> HELLO, WORLD! </h2>
 
-<!--
-**alocinny/alocinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-Here are some ideas to get you started:
+- 🤔 &nbsp; Estudando novas linguagens e desenvolvendo jogos como hobby
+- 🎓 &nbsp; Estudante de engenharia da computação 4/10
+- 💼 &nbsp; Em busca de estágio
+- 🌱 &nbsp; aprendendo mais sobre estrutura e análise de dados
+- ✍️ &nbsp; Java, C, python, JavaScript, React, HTML, CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/alocinny">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alocinny&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alocinny&theme=buefy&layout=compact" />
+</a>
